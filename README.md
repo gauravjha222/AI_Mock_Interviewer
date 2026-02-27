@@ -1,4 +1,4 @@
-<h1>  # AI_Mock_Interviewer </h1>
+<h1>  # Ai_powred_MockInterview_bot</h1>
 
 This project is an AI Voice Mock Interviewer app built with Streamlit. Here’s a detailed explanation suitable for presentation, covering its goals, workflow, technical architecture, and highlights.
 
